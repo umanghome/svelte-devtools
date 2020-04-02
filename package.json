@@ -19,7 +19,7 @@
     "rollup-plugin-node-resolve": "^5.0.0",
     "rollup-plugin-svelte": "^5.1.1",
     "svelte": "^3.20.1",
-    "svelte-listener": "git+https://github.com/RedHatter/svelte-listener.git",
+    "svelte-listener": "git+https://github.com/umanghome/svelte-listener.git",
     "svgexport": "^0.3.2",
     "tiny-glob": "^0.2.6",
     "web-ext": "^3.2.1"
